@@ -118,7 +118,15 @@ This dashboard focuses on RFM-based customer segmentation.
 - Performed exploratory data analysis
 
 ---
+## Data Cleaning Impact Analysis
 
+Initial total revenue including null Customer IDs: 9.79M  
+Revenue after removing null customers: 8.62M  
+
+~1.17M revenue originated from unidentified customers.
+
+After cleaning, Champions contributed 64.4% of revenue (vs 56.5% when including null customers), improving segmentation clarity and customer-level accuracy.
+--- 
 ## 🛢 SQL (RFM Modeling)
 
 - Aggregated customer-level metrics
@@ -143,7 +151,6 @@ This dashboard focuses on RFM-based customer segmentation.
 
 # 💼 Business Insights
 
-- 64% of revenue comes from Champions
 - High churn observed in Lost Customers segment
 - Revenue concentration risk identified
 - Converting Potential Loyalists can significantly increase revenue
