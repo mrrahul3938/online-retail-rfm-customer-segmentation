@@ -50,7 +50,7 @@ This dashboard provides high-level business KPIs and revenue trends.
 - Revenue by Country
 - Top 5 Revenue Generating Products
 
-![Executive Overview](images/Executive_Overview.png)
+<img src="images/Executive Overview.png" width="750">
 
 ### Insights:
 - Revenue peaked at 1.43M in Nov 2010.
@@ -64,7 +64,7 @@ This dashboard provides high-level business KPIs and revenue trends.
 
 This dashboard analyzes product performance and revenue contribution patterns.
 
-![Product Intelligence](images/Product Intelligence.png)
+<img src="images/Product Intelligence.png" width="750">
 
 ### Key Visuals:
 - Top 10 Products by Quantity
@@ -83,7 +83,9 @@ This dashboard analyzes product performance and revenue contribution patterns.
 # 👥 Customer Intelligence
 
 This dashboard focuses on RFM-based customer segmentation.
-![Customer_Intelligence](images/Customer Intelligence.png)
+
+<img src="images/Customer Intelligence.png" width="750">
+
 ### Visuals Included:
 - Customer Segment Distribution
 - Revenue Contribution by Segment
@@ -155,8 +157,8 @@ This dashboard focuses on RFM-based customer segmentation.
 Due to GitHub file size limitations (~50MB), the dataset is not included in this repository.
 
 You can download it from:
-online_retail = [https://docs.google.com/spreadsheets/d/1yyJN6ffBv5qUDdtcdkb7jxyYBmYoA4Il/edit?usp=drive_link&ouid=117517964316414550336&rtpof=true&sd=true]
-Clean_retail = [https://drive.google.com/file/d/1vtcnhG0vIoY1vSXmTUHaODITlP1AI69e/view?usp=drive_link]
+- online_retail = [https://docs.google.com/spreadsheets/d/1yyJN6ffBv5qUDdtcdkb7jxyYBmYoA4Il/edit?usp=drive_link&ouid=117517964316414550336&rtpof=true&sd=true]
+- Clean_retail = [https://drive.google.com/file/d/1vtcnhG0vIoY1vSXmTUHaODITlP1AI69e/view?usp=drive_link]
 
 ---
 
