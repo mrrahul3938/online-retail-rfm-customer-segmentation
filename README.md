@@ -64,7 +64,7 @@ This dashboard provides high-level business KPIs and revenue trends.
 
 This dashboard analyzes product performance and revenue contribution patterns.
 
-![Product Intelligence](images/Product_Ingelligence.png)
+![Product Intelligence](images/Product Intelligence.png)
 
 ### Key Visuals:
 - Top 10 Products by Quantity
@@ -83,7 +83,7 @@ This dashboard analyzes product performance and revenue contribution patterns.
 # 👥 Customer Intelligence
 
 This dashboard focuses on RFM-based customer segmentation.
-![Customer_Intelligence](images/Customer_Ingelligence.png)
+![Customer_Intelligence](images/Customer Intelligence.png)
 ### Visuals Included:
 - Customer Segment Distribution
 - Revenue Contribution by Segment
